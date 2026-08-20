@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on translation apps<br>I'm looking to collaborate with AI proyects<br>I'm looking for help with databases, Tensor Flow and Machine Learning<br>I'm currently learning databases.<br>Ask me about React Native Mobile apps/web pages<br>Im an System engineering Student that is on his 4th semester
+I'm working on translation apps<br>I'm looking to collaborate with AI proyects<br>I'm looking for help with databases, Tensor Flow and Machine Learning<br>I'm currently learning databases.<br>Ask me about React Native Mobile apps/web pages<br>Im an System engineering Student that is on his 6th semester
 
 
 ## 🌐 Socials:
